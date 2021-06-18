@@ -1,0 +1,687 @@
+[
+  {
+    "name": "AL-Faatihah سورة الفاتحة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/001.mp3",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "name": "AL-Baqarah سورة البقرة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/002.mp3",
+    "order": 2
+  },
+  {
+    "name": "Aali-`Imraan سورة آل عمران",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/003.mp3",
+    "order": 3
+  },
+  {
+    "name": "An-Nisaa' سورة النساء",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/004.mp3",
+    "order": 4
+  },
+  {
+    "name": "Al-Ma'idah سورة المائدة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/005.mp3",
+    "order": 5
+  },
+  {
+    "name": "Al-an`aam سورة الأنعام",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/006.mp3",
+    "order": 6
+  },
+  {
+    "name": "Al-Aaraf سورة الأعراف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/007.mp3",
+    "order": 7
+  },
+  {
+    "name": "Al-Anfaal سورة الأنفال",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/008.mp3",
+    "order": 8
+  },
+  {
+    "name": "At-Tawbah سورة التوبة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/009.mp3",
+    "order": 9
+  },
+  {
+    "name": "Yoonus سورة يونس",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/010.mp3",
+    "order": 10
+  },
+  {
+    "name": "Hood سورة هود",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/011.mp3",
+    "order": 11
+  },
+  {
+    "name": "Yoosuf سورة يوسف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/012.mp3",
+    "order": 12
+  },
+  {
+    "name": "Ar-Raad سورة الرعد",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/013.mp3",
+    "order": 13
+  },
+  {
+    "name": "Ibraheem سورة إبراهيم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/014.mp3",
+    "order": 14
+  },
+  {
+    "name": "Al-Hajar سورة الحجر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/015.mp3",
+    "order": 15
+  },
+  {
+    "name": "An-Nahl سورة النحل",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/016.mp3",
+    "order": 16
+  },
+  {
+    "name": "Al-Isra' سورة الإسراء",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/017.mp3",
+    "order": 17
+  },
+  {
+    "name": "Al-Kahf سورة الكهف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/018.mp3",
+    "order": 18
+  },
+  {
+    "name": "Maryam سورة مريم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/019.mp3",
+    "order": 19
+  },
+  {
+    "name": "Taa haa سورة طه",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/020.mp3",
+    "order": 20
+  },
+  {
+    "name": "Al-aAnbiyaa' سورة الأنبياء",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/021.mp3",
+    "order": 21
+  },
+  {
+    "name": "Al-Hajj سورة الحج",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/022.mp3",
+    "order": 22
+  },
+  {
+    "name": "al-Mu'minoon سورة المؤمنون",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/023.mp3",
+    "order": 23
+  },
+  {
+    "name": "An-Noor سورة النور",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/024.mp3",
+    "order": 24
+  },
+  {
+    "name": "Al-Furqaan سورة الفرقان",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/025.mp3",
+    "order": 25
+  },
+  {
+    "name": "Ash-shu`araa' سورة الشعراء",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/026.mp3",
+    "order": 26
+  },
+  {
+    "name": "An-Naml سورة النمل",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/027.mp3",
+    "order": 27
+  },
+  {
+    "name": "Al-Qasas سورة القصص",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/028.mp3",
+    "order": 28
+  },
+  {
+    "name": "Al-Ankaboot سورة العنكبوت",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/029.mp3",
+    "order": 29
+  },
+  {
+    "name": "Ar-Room سورة الروم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/030.mp3",
+    "order": 30
+  },
+  {
+    "name": "Luqmaan سورة لقمان",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/031.mp3",
+    "order": 31
+  },
+  {
+    "name": "As-Sajdah سورة السجدة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/032.mp3",
+    "order": 32
+  },
+  {
+    "name": "Al-AHzab سورة الأحزاب",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/033.mp3",
+    "order": 33
+  },
+  {
+    "name": "As-Saba' سورة سبأ",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/034.mp3",
+    "order": 34
+  },
+  {
+    "name": "Fatir سورة فاطر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/035.mp3",
+    "order": 35
+  },
+  {
+    "name": "yaa seen سورة يس",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/036.mp3",
+    "order": 36
+  },
+  {
+    "name": "AS-Saaffaat سورة الصافات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/037.mp3",
+    "order": 37
+  },
+  {
+    "name": "Saad سورة ص",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/038.mp3",
+    "order": 38
+  },
+  {
+    "name": "Az-Zumar سورة الزمر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/039.mp3",
+    "order": 39
+  },
+  {
+    "name": "Ghafir سورة غافر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/040.mp3",
+    "order": 40
+  },
+  {
+    "name": "Fussilat سورة فصلت",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/041.mp3",
+    "order": 41
+  },
+  {
+    "name": "Ash-Shooraa سورة الشورى",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/042.mp3",
+    "order": 42
+  },
+  {
+    "name": "Azl-Zukhruf سورة الزخرف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/043.mp3",
+    "order": 43
+  },
+  {
+    "name": "Ad-Dukhaan سورة الدخان",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/044.mp3",
+    "order": 44
+  },
+  {
+    "name": "Al-Jaathiyah سورة الجاثية",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/045.mp3",
+    "order": 45
+  },
+  {
+    "name": "Al-Ahqaaf سورة الأحقاف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/046.mp3",
+    "order": 46
+  },
+  {
+    "name": "Muhammad سورة محمد",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/047.mp3",
+    "order": 47
+  },
+  {
+    "name": "Al-Fath سورة الفتح",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/048.mp3",
+    "order": 48
+  },
+  {
+    "name": "Al-Hujuraat سورة الحجرات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/049.mp3",
+    "order": 49
+  },
+  {
+    "name": "Qaaf سورة ق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/050.mp3",
+    "order": 50
+  },
+  {
+    "name": "Ad-Dhaariyaat سورة الذاريات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/051.mp3",
+    "order": 51
+  },
+  {
+    "name": "At-Toor سورة الطور",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/052.mp3",
+    "order": 52
+  },
+  {
+    "name": "An-Najm سورة النجم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/053.mp3",
+    "order": 53
+  },
+  {
+    "name": "Al-Qamar سورة القمر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/054.mp3",
+    "order": 54
+  },
+  {
+    "name": "Ar-Rahmaan سورة الرحمن",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/055.mp3",
+    "order": 55
+  },
+  {
+    "name": "Al-Waaqi`ah سورة الواقعة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/056.mp3",
+    "order": 56
+  },
+  {
+    "name": "Al-Hadeed سورة الحديد",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/057.mp3",
+    "order": 57
+  },
+  {
+    "name": "Al-Mujaadilah سورة المجادلة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/058.mp3",
+    "order": 58
+  },
+  {
+    "name": "Al-Hashr سورة الحشر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/059.mp3",
+    "order": 59
+  },
+  {
+    "name": "Al-MumtaHanah سورة الممتحنة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/060.mp3",
+    "order": 60
+  },
+  {
+    "name": "As-Saff سورة الصف",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/061.mp3",
+    "order": 61
+  },
+  {
+    "name": "Al-Jumu`ah سورة الجمعة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/062.mp3",
+    "order": 62
+  },
+  {
+    "name": "Al-Munafiqoon سورة المنافقون",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/063.mp3",
+    "order": 63
+  },
+  {
+    "name": "At-Taghaabun سورة التغابن",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/064.mp3",
+    "order": 64
+  },
+  {
+    "name": "At-Talaaq سورة الطلاق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/065.mp3",
+    "order": 65
+  },
+  {
+    "name": "At-Tahreem سورة التحريم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/066.mp3",
+    "order": 66
+  },
+  {
+    "name": "Al-Mulk سورة الملك",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/067.mp3",
+    "order": 67
+  },
+  {
+    "name": "Al-Qalam سورة القلم",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/068.mp3",
+    "order": 68
+  },
+  {
+    "name": "Al-Haaqqah سورة الحاقة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/069.mp3",
+    "order": 69
+  },
+  {
+    "name": "Al-Ma`aarij سورة المعارج",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/070.mp3",
+    "order": 70
+  },
+  {
+    "name": "Nooh سورة نوح",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/071.mp3",
+    "order": 71
+  },
+  {
+    "name": "Al-Jinn سورة الجن",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/072.mp3",
+    "order": 72
+  },
+  {
+    "name": "Al-Muzammil سورة المزمل",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/073.mp3",
+    "order": 73
+  },
+  {
+    "name": "Al-Muddaththir سورة المدثر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/074.mp3",
+    "order": 74
+  },
+  {
+    "name": "Al-Qiyaamah سورة القيامة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/075.mp3",
+    "order": 75
+  },
+  {
+    "name": "Al-Insane سورة الإنسان",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/076.mp3",
+    "order": 76
+  },
+  {
+    "name": "Al-Mursalaat سورة المرسلات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/077.mp3",
+    "order": 77
+  },
+  {
+    "name": "An-Naba' سورة النبأ",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/078.mp3",
+    "order": 78
+  },
+  {
+    "name": "An-Naazi`aat سورة النازعات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/079.mp3",
+    "order": 79
+  },
+  {
+    "name": "`Abasa سورة عبس",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/080.mp3",
+    "order": 80
+  },
+  {
+    "name": "At-Takweer سورة التكوير",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/081.mp3",
+    "order": 81
+  },
+  {
+    "name": "Al-InfiTaar سورة الانفطار",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/082.mp3",
+    "order": 82
+  },
+  {
+    "name": "Al-Mutaffifeen سورة المطففين",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/083.mp3",
+    "order": 83
+  },
+  {
+    "name": "Al-Inshiqaaq سورة الانشقاق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/084.mp3",
+    "order": 84
+  },
+  {
+    "name": "Al-Burooj سورة البروج",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/085.mp3",
+    "order": 85
+  },
+  {
+    "name": "At-Taariq سورة الطارق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/086.mp3",
+    "order": 86
+  },
+  {
+    "name": "al-'Aala سورة الأعلى",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/087.mp3",
+    "order": 87
+  },
+  {
+    "name": "Al-Ghaashiyah سورة الغاشية",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/088.mp3",
+    "order": 88
+  },
+  {
+    "name": "Al-Fajr سورة الفجر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/089.mp3",
+    "order": 89
+  },
+  {
+    "name": "Al-Balad سورة البلد",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/090.mp3",
+    "order": 90
+  },
+  {
+    "name": "Ash-Shams سورة الشمس",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/091.mp3",
+    "order": 91
+  },
+  {
+    "name": "Al-Lail سورة الليل",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/092.mp3",
+    "order": 92
+  },
+  {
+    "name": "Ad-DuHaa سورة الضحى",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/093.mp3",
+    "order": 93
+  },
+  {
+    "name": "Ssh-Sharh سورة الشرح",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/094.mp3",
+    "order": 94
+  },
+  {
+    "name": "At-Teen سورة التين",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/095.mp3",
+    "order": 95
+  },
+  {
+    "name": "Al-`alaq سورة العلق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/096.mp3",
+    "order": 96
+  },
+  {
+    "name": "Al-qadr سورة القدر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/097.mp3",
+    "order": 97
+  },
+  {
+    "name": "Al-Bayyinah سورة البينة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/098.mp3",
+    "order": 98
+  },
+  {
+    "name": "Az-Zalzala سورة الزلزلة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/099.mp3",
+    "order": 99
+  },
+  {
+    "name": "Al-Aadiyaat سورة العاديات",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/100.mp3",
+    "order": 100
+  },
+  {
+    "name": "Al-Qaari`ah سورة القارعة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/101mp3",
+    "order": 101
+  },
+  {
+    "name": "At-Takaathur سورة التكاثر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/102.mp3",
+    "order": 102
+  },
+  {
+    "name": "Al-Asr سورة العصر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/103.mp3",
+    "order": 103
+  },
+  {
+    "name": "Al-Humazah سورة الهمزة",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/104.mp3",
+    "order": 104
+  },
+  {
+    "name": "Al-Feel سورة الفيل",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/105.mp3",
+    "order": 105
+  },
+  {
+    "name": "Al-Quraish سورة قريش",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/106.mp3",
+    "order": 106
+  },
+  {
+    "name": "Al-Maa`oon سورة الماعون",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/107.mp3",
+    "order": 107
+  },
+  {
+    "name": "Al-Kauthar سورة الكوثر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/108.mp3",
+    "order": 108
+  },
+  {
+    "name": "Al-Kafiroon سورة الكافرون",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/109.mp3",
+    "order": 109
+  },
+  {
+    "name": "An-NaSr سورة النصر",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/110.mp3",
+    "order": 110
+  },
+  {
+    "name": "Al-Masad سورة المسد",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/111.mp3",
+    "order": 111
+  },
+  {
+    "name": "Al-IkhlaaS سورة الإخلاص",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/112.mp3",
+    "order": 112
+  },
+  {
+    "name": "Al-Falaq سورة الفلق",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/113.mp3",
+    "order": 113
+  },
+  {
+    "name": "An-naas سورة الناس",
+    "reciter": "أبو بكر الشاطري",
+    "location": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/114.mp3",
+    "order": 114
+  }
+]
