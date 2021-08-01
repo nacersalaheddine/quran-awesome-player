@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/quran-awesome-player/static/css/main.fe1139d3.chunk.css",
-    "main.js": "/quran-awesome-player/static/js/main.f5b5f836.chunk.js",
-    "main.js.map": "/quran-awesome-player/static/js/main.f5b5f836.chunk.js.map",
+    "main.css": "/quran-awesome-player/static/css/main.24ddb954.chunk.css",
+    "main.js": "/quran-awesome-player/static/js/main.12f9d7c9.chunk.js",
+    "main.js.map": "/quran-awesome-player/static/js/main.12f9d7c9.chunk.js.map",
     "runtime-main.js": "/quran-awesome-player/static/js/runtime-main.ccfbd029.js",
     "runtime-main.js.map": "/quran-awesome-player/static/js/runtime-main.ccfbd029.js.map",
     "static/css/2.2498cb2d.chunk.css": "/quran-awesome-player/static/css/2.2498cb2d.chunk.css",
@@ -10,16 +10,16 @@
     "static/js/2.f1e13cd8.chunk.js.map": "/quran-awesome-player/static/js/2.f1e13cd8.chunk.js.map",
     "index.html": "/quran-awesome-player/index.html",
     "static/css/2.2498cb2d.chunk.css.map": "/quran-awesome-player/static/css/2.2498cb2d.chunk.css.map",
-    "static/css/main.fe1139d3.chunk.css.map": "/quran-awesome-player/static/css/main.fe1139d3.chunk.css.map",
+    "static/css/main.24ddb954.chunk.css.map": "/quran-awesome-player/static/css/main.24ddb954.chunk.css.map",
     "static/js/2.f1e13cd8.chunk.js.LICENSE.txt": "/quran-awesome-player/static/js/2.f1e13cd8.chunk.js.LICENSE.txt",
-    "static/js/main.f5b5f836.chunk.js.LICENSE.txt": "/quran-awesome-player/static/js/main.f5b5f836.chunk.js.LICENSE.txt",
+    "static/js/main.12f9d7c9.chunk.js.LICENSE.txt": "/quran-awesome-player/static/js/main.12f9d7c9.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/quran-awesome-player/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.ccfbd029.js",
     "static/css/2.2498cb2d.chunk.css",
     "static/js/2.f1e13cd8.chunk.js",
-    "static/css/main.fe1139d3.chunk.css",
-    "static/js/main.f5b5f836.chunk.js"
+    "static/css/main.24ddb954.chunk.css",
+    "static/js/main.12f9d7c9.chunk.js"
   ]
 }
